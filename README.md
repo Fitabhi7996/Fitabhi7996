@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Portfolio: a[href*='https://fitabhi7996.github.io//']
+
+<a href='https://fitabhi7996.github.io//'>Portfolio</a>
 
 <!--
 **Fitabhi7996/Fitabhi7996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
