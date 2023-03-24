@@ -16,7 +16,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fitabhi7996&show_icons=true&theme=prussian)
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fitabhi7996&bg_color=172f45&color=000000&line=24292e&point=24292e&area=true&hide_border=true)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fitabhi7996&bg_color=dafbe1&color=ff69b4&line=24292e&point=24292e&area=true&hide_border=true)
 
 
 
