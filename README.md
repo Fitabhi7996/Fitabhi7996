@@ -1,19 +1,24 @@
 ### Hi there 👋
 
 
-Portfolio:<a href='https://fitabhi7996.github.io/'>Fitabhi7996</a>
 
-<!--
-**Fitabhi7996/Fitabhi7996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning MERN Stack Web Development.
+- 💼 Here's my Portfolio:<a href='https://fitabhi7996.github.io/'>Fitabhi7996</a>
+- 👯 I’m looking to work as Full-stack web developer.
+- 💬 Ask me about HTML, CSS, JavaScript, React.
+- 📫 How to reach me: ghodmareabhishek@gmail.com
+- My LinkedIn: https://www.linkedin.com/in/neha-phadtare/
+ 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Fitabhi7996&theme=prussian&rank=-C)
+ 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fitabhi7996&theme=prussian)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fitabhi7996&show_icons=true&theme=prussian)
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fitabhi7996&bg_color=000000&color=ff69b4&line=24292e&point=24292e&area=true&hide_border=true)
+
+
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fitabhi7996&theme=prussian)
+
